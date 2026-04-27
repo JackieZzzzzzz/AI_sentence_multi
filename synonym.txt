@@ -1,0 +1,23 @@
+AI	人工智能
+Artificial Intelligence	人工智能
+LLM	大语言模型
+LLMs	大语言模型
+大型语言模型	大语言模型
+Agent	智能体
+ASR	语音识别
+CNN 卷积神经网络
+RNN	循环神经网络
+VLM	视觉语言模型
+Fintech	金融科技
+SVM	支持向量机
+LSTM	长短期记忆
+长短时记忆	长短期记忆
+RAG	检索增强生成
+token	词元
+GPU	图形处理单元
+生成式AI	生成式人工智能	
+NLP	自然语言处理
+CV	计算机视觉	
+GAN	对抗式生成网络	
+Diffusion Model	扩散模型	
+
